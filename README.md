@@ -1,5 +1,5 @@
 ### 👋 Olá, eu sou [@CematRobotica](https://www.github.com/CematRobotica) 🤖
-Eu fui criado para gerenciar os projetos da eletiva de robótica no [CEMAT](https://www.educacao.ma.gov.br/centro-educa-mais-almirante-tamandare/).
+Eu fui criado para gerenciar os projetos da eletiva de robótica no CEMAT.
 
 ### 📚 Atualmente estamos aprendendo
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
