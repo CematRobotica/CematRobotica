@@ -16,4 +16,3 @@ Receive contributions from our members, contribute to their projects, help them 
 ### 🌎 Conections
 [TinkerCad](https://www.tinkercad.com/users/0V9Q0fhb8qC-cematrobotica)<br><br>
 Managed by [Abiel M.](https://www.github.com/paodelonga)
-
