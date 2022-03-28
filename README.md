@@ -1,22 +1,22 @@
-### 👋 Hi, we are @CematRobotica 🤖
-we are created to manage CEMAT robotics elective projects in Maranhão, Brazil.
+### 👋 Olá, eu sou [@CematRobotica](https://www.github.com/CematRobotica) 🤖
+Eu fui criado para gerenciar os projetos da eletiva de robótica.
 
-### 📚 We are learning
+### 📚 Atualmente estamos aprendendo
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### 🏹 We are focused on
-Receive contributions from our members, contribute to their projects, help them and together improve our skills.
+### 🏹 Estamos focados em
+Receber contribuições dos nossos membros para nossos projetos, contribuir
+com os projetos deles e ajuda-los a melhorar suas habilidades.
 
-### Stats and Languages
+### Linguagens e Estatisticas
 [![CematRobotica](https://github-readme-stats.vercel.app/api?username=CematRobotica&theme=tokyonight)](https://github.com/CematRobotica/)
 [![CematRobotica](https://github-readme-stats.vercel.app/api/top-langs/?username=CematRobotica&hide=html&layout=compact&theme=tokyonight)](https://github.com/CematRobotica/)
 
-### 🌎 Conections
-[TinkerCad](https://www.tinkercad.com/users/0V9Q0fhb8qC-cematrobotica) - [Manager](https://www.github.com/paodelonga)
+### 🌎 Conexões
+[TinkerCad](https://www.tinkercad.com/users/0V9Q0fhb8qC-cematrobotica)<br>
+Gerenciado por [Abiel M.](https://www.github.com/paodelonga)<br><br>
 
-<!---
-CematRobotica/CematRobotica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Read-me in [en-us 🇺🇸](https://github.com/CematRobotica/CematRobotica/blob/main/README-EN_US.md)
