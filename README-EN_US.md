@@ -1,5 +1,5 @@
 ### 👋 Hi, i'am @CematRobotica 🤖
-i are created to manage CEMAT robotics elective projects in Maranhão, Brazil.
+this repository are created to manage CEMAT robotics elective projects in Maranhão, Brazil.
 
 ### 📚 We are curent learning
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
