@@ -23,8 +23,8 @@ com os projetos deles e ajuda-los a melhorar suas habilidades.
 -----
 
 ### 🌎 Conexões
-![Perfil no Tinkercad](https://raw.githubusercontent.com/CematRobotica/CematRobotica/86d4926867acbf7c54c3edfd24a24455f3d136ca/assets/Tinkercad.svg)
-![Leia-me em inglês](https://raw.githubusercontent.com/CematRobotica/CematRobotica/86d4926867acbf7c54c3edfd24a24455f3d136ca/assets/RMIE.svg)
+[![Perfil no Tinkercad](https://raw.githubusercontent.com/CematRobotica/CematRobotica/86d4926867acbf7c54c3edfd24a24455f3d136ca/assets/Tinkercad.svg)](https://www.tinkercad.com/users/0V9Q0fhb8qC-cematrobotica)
+[![Leia-me em inglês](https://raw.githubusercontent.com/CematRobotica/CematRobotica/86d4926867acbf7c54c3edfd24a24455f3d136ca/assets/RMIE.svg)](https://github.com/CematRobotica/CematRobotica/blob/main/README-EN_US.md)
 <br>
 <br>
 Gerenciado por [Abiel M.](https://www.github.com/paodelonga)
