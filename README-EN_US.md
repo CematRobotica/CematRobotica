@@ -23,7 +23,7 @@ Receive contributions from our members, contribute to their projects, help them 
 
 ### 🌎 Conections
 [![image](https://github.com/CematRobotica/CematRobotica/blob/main/assets/Tinkercad.svg)](https://www.tinkercad.com/users/0V9Q0fhb8qC-cematrobotica)
-
------
-[![image](https://github.com/CematRobotica/CematRobotica/blob/main/assets/RMIP.svg)](https://github.com/CematRobotica/CematRobotica/blob/main/README.md)<br>
+[![image](https://github.com/CematRobotica/CematRobotica/blob/main/assets/RMIP.svg)](https://github.com/CematRobotica/CematRobotica/blob/main/README.md)
+<br>
+<br>
 Managed by [Abiel M.](https://www.github.com/paodelonga)
