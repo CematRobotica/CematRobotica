@@ -14,6 +14,17 @@ python -m pybadges \
 --right-color="#1E9696" \
 --right-text="Arduino";
 
+## C++
+python -m pybadges \
+--browser \
+--logo="./badges/logos/c++.png" \
+--embed-logo \
+--left-color="#1A459C" \
+--left-text="" \
+--right-color="#1A459C" \
+--right-text="C++";
+
+
 ## Tinkercad
 python -m pybadges \
 --browser \
