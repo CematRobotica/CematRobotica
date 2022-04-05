@@ -6,7 +6,7 @@ Este repositório foi criado para gerenciar os projetos da eletiva de robótica 
 ### 📚 Atualmente estamos aprendendo
 ![Arduino](https://raw.githubusercontent.com/CematRobotica/CematRobotica/main/assets/badges/arduino.svg)
 ![C++](https://raw.githubusercontent.com/CematRobotica/CematRobotica/main/assets/badges/c%2B%2B.svg)
-![image](https://img.shields.io/badge/C%2B%2B-00599Cs.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://raw.githubusercontent.com/CematRobotica/CematRobotica/main/assets/badges/c%23.svg)
 ![image](https://img.shields.io/badge/C%23-239120.svg?style=flat&logo=c-sharp&logoColor=white)
 
 -----
