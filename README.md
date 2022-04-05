@@ -17,14 +17,14 @@ com os projetos deles e ajuda-los a melhorar suas habilidades.
 -----
 
 ### Linguagens e Estatisticas
-[![CematRobotica](https://github-readme-stats.vercel.app/api?username=CematRobotica&theme=tokyonight)](https://github.com/CematRobotica/)
-[![CematRobotica](https://github-readme-stats.vercel.app/api/top-langs/?username=CematRobotica&hide=html&layout=compact&theme=tokyonight)](https://github.com/CematRobotica/)
+[![Statistics](https://github-readme-stats.vercel.app/api?username=CematRobotica&theme=tokyonight)](https://github.com/CematRobotica/)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CematRobotica&hide=html&layout=compact&theme=tokyonight)](https://github.com/CematRobotica/)
 
 -----
 
 ### 🌎 Conexões
-[![Perfil no Tinkercad](https://raw.githubusercontent.com/CematRobotica/CematRobotica/86d4926867acbf7c54c3edfd24a24455f3d136ca/assets/Tinkercad.svg)](https://www.tinkercad.com/users/0V9Q0fhb8qC-cematrobotica)
-[![Leia-me em inglês](https://raw.githubusercontent.com/CematRobotica/CematRobotica/86d4926867acbf7c54c3edfd24a24455f3d136ca/assets/RMIE.svg)](https://github.com/CematRobotica/CematRobotica/blob/main/README-EN_US.md)
+[![Profile on Tinkercad](https://raw.githubusercontent.com/CematRobotica/CematRobotica/main/assets/badges/tinkercad.svg)](https://www.tinkercad.com/users/0V9Q0fhb8qC-cematrobotica)
+[![README.md in English](https://raw.githubusercontent.com/CematRobotica/CematRobotica/main/assets/badges/readme.svg)](https://github.com/CematRobotica/CematRobotica/blob/main/README-EN_US.md)
 <br>
 <br>
 Gerenciado por [Abiel M.](https://www.github.com/paodelonga)
