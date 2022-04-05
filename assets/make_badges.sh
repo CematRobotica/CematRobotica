@@ -4,6 +4,16 @@
 # ./make-badges.sh
 
 
+## Arduino
+python -m pybadges \
+--browser \
+--logo="./badges/logos/arduino.png" \
+--embed-logo \
+--left-color="#1E9696" \
+--left-text="" \
+--right-color="#1E9696" \
+--right-text="Arduino";
+
 ## Tinkercad
 python -m pybadges \
 --browser \

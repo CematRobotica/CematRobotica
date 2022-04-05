@@ -4,9 +4,11 @@ this repository are created to manage CEMAT robotics elective projects in Maranh
 -----
 
 ### 📚 We are curent learning
+![Arduino](https://raw.githubusercontent.com/CematRobotica/CematRobotica/main/assets/badges/arduino.svg)
 ![image](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=yellow)
 ![image](https://img.shields.io/badge/C%2B%2B-00599Cs.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![image](https://img.shields.io/badge/C%23-239120.svg?style=flat&logo=c-sharp&logoColor=white)
+
 
 -----
 
