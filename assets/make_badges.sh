@@ -34,6 +34,16 @@ python -m pybadges \
 --right-color="#4307A3" \
 --right-text="C#";
 
+## Python
+python -m pybadges \
+--browser \
+--logo="./badges/logos/python.png" \
+--embed-logo \
+--left-color="#FAC81B" \
+--left-text="" \
+--right-color="#FAC81B" \
+--right-text="Python";
+
 ## Tinkercad
 python -m pybadges \
 --browser \
